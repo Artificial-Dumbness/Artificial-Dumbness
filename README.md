@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning cool new ways to develop useful programs.
 - 🌱 I’m currently learning the study of designing and training Neural Netoworks for CV and Data tasks.
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 How to reach me? You can drop a message on my profile and hope I see it in 2 months or so.
+- 📫 How to reach me? You can mail me at rishitlko@gmail.com
 - 😄 Pronouns: I'm not a pychopath.
 - ⚡ Fun fact: I am in High School.
 
